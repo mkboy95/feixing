@@ -9,12 +9,12 @@ export default function About() {
         </div>
         <div class="max-auto mt-8 max-w-lg leading-8 text-gray-900">
           <div class="text-lg text-gray-500">关于本站</div>
-          <div class="my-4">网站目前只接收客服人工收款</div>
-          <div>10元开通会员</div>
-          <div>199元网站部署服务（含素材，开源库中不含敏感素材）</div>
-          <div>支付后添加微信[ wbot10 ] 1~12小时内响应</div>
+          <div class="my-4">本游戏由：破姐应用库 出品</div>
+          <div>无需会员</div>
+          <div>免费畅玩情侣升温小游戏</div>
+          <div>请添加官方客服：ZJBBNB</div>
           <div class="mt-4">
-            如需其他定制开发， 欢迎联系合作。
+            如需其他好玩的软件，请关注公众号：破姐应用库
             <a href="/custom" class="underline">
               如何制作一个相同的网站赚钱
             </a>
