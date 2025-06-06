@@ -8,11 +8,11 @@ export default function Home() {
       <div class="max-w-screen-md mx-auto flex flex-col items-center justify-center">
         <h1 class="text-4xl font-bold my-16">情侣情趣飞行棋</h1>
         <img src="/logo.png" class="w-16 h-16" />
-        <h2 class="my-4">最新自由定制版即将发布</h2>
+        <h2 class="my-4">超赞出品</h2>
         <div class="text-left leading-8 font-black mt-8">
           <div>1. 自由定制棋盘内容</div>
           <div>2. 预设不同阶段互动内容 恋爱，情趣，好玩。满足各种口味快速开局。</div>
-          <div>3. 获取源码定制，一键接入自有app小程序, 公众号</div>
+          <div>3. 公众号：破姐应用库</div>
         </div>
         <div class="text-center mt-8">
           <div class="font-black my-4">游戏列表</div>
@@ -20,7 +20,7 @@ export default function Home() {
           <a href="/card" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">任务卡牌</a>
           <a href="/position" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">姿势卡牌</a>
           <a href="/positions" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">姿势大全</a>
-          <a href="/member" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">会员空间</a>
+          <a href="/member" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">免费解锁会员</a>
           
            
         </div>
